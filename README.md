@@ -54,6 +54,21 @@ git clone https://github.com/your-username/daily-planner.git
 
 4. Analyze your productivity with the insights and statistics provided.
 
+## Deployment on AWS
+
+I am excited to announce that the Daily Planner Web App has been successfully deployed to the AWS cloud! You can access the live application by following this link: 
+http://dailyplannerwebapp.ap-south-1.elasticbeanstalk.com/
+
+### How We Did It
+
+Our deployment on AWS ensures that the Daily Planner is accessible to users from anywhere, providing a seamless and reliable experience.
+
+### Benefits of AWS Deployment
+
+- **Scalability:** AWS allows us to easily scale resources to handle increased traffic and user demand.
+- **Reliability:** With AWS's robust infrastructure, we can guarantee high availability and minimal downtime.
+- **Security:** AWS provides advanced security features to protect user data and privacy.
+- **Global Reach:** Our app can now serve users globally with AWS's worldwide data centers.
 
 ## Contributing
 
