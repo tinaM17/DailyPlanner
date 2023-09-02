@@ -24,7 +24,6 @@
 	border: 2px solid green;
 	padding: 5px;
 	appearance: none;
-	/* This is important to override default browser styles */
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	outline: none;
